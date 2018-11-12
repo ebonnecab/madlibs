@@ -1,2 +1,2 @@
 # Madlibs
-1. I defined four variables for the user to input their own words into the story.
+Recreated simple Mad-libs game in Python for Computer Science 1.1.
